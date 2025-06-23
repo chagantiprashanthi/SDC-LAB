@@ -3,6 +3,7 @@ PROGRAM 7 – Session Management in Shopping Cart Web Application
 AIM
 To implement session tracking in a shopping cart web application using HTTP Sessions in Java Servlets.
 ![Screenshot (27)](https://github.com/user-attachments/assets/bc10015e-f040-4997-a0e4-87b911c63b4b)
+![Screenshot (28)](https://github.com/user-attachments/assets/2e79a1bb-3adf-4a44-a0a0-2de84104d5c8)
 
 DESCRIPTION
 This experiment demonstrates how to maintain user-specific data (such as a shopping cart) using HTTP sessions in Java Servlets. When a user adds products to the cart, the servlet tracks the session and stores cart data in memory without requiring a database write for every interaction. This implementation improves performance and user experience by keeping state between page requests.
