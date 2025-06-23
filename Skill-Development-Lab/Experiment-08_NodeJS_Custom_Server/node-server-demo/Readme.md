@@ -3,6 +3,9 @@ PROGRAM 8 – Custom Server and Core Modules in Node.js
 AIM  
 To create a custom HTTP server using Node.js and explore core built-in modules such as `os`, `path`, and `events`.
 
+![Screenshot (34)](https://github.com/user-attachments/assets/97d47380-826e-4600-a9da-859d76270027)
+
+
 DESCRIPTION  
 This experiment demonstrates how to build a simple HTTP server using Node.js without any external frameworks. It also showcases how to interact with system-level information, file paths, and custom events using Node.js core modules.The solution uses Node.js for server-side programming and the built-in `http`, `os`, `path`, and `events` modules to explore their functionalities in a backend environment. This helps in understanding how Node.js handles server creation and system-level operations using its standard library.
 
