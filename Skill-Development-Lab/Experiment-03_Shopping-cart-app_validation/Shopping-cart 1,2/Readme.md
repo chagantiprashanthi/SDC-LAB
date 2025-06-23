@@ -7,6 +7,13 @@ To implement client-side validation using JavaScript for a registration form and
 2. Requirements
 •Software: Google Chrome, VS Code / Any Text Editor
 •Technologies: HTML, CSS, JavaScript
+![Screenshot (17)](https://github.com/user-attachments/assets/d9f9a0ba-344a-4495-92d1-38941571450a)
+
+![Screenshot (18)](https://github.com/user-attachments/assets/3c611137-c377-4ead-959c-9698694865c1)
+![Screenshot (19)](https://github.com/user-attachments/assets/2b121b8e-68dd-49b0-b718-cab8ccacd5c6)
+![Screenshot (20)](https://github.com/user-attachments/assets/f3475e38-17ca-437c-8c0a-a39c722131a0)
+
+
 
 3. Theory
 SDC observation
