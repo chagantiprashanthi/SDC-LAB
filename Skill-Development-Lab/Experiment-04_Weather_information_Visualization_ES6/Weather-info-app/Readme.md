@@ -13,6 +13,15 @@ Technologies Used
 •JavaScript (ES6+) for functionality
 •Chart.js for data visualization
 •OpenWeatherMap API for real-time weather data
+
+
+![Screenshot (21)](https://github.com/user-attachments/assets/364c1c0f-4be1-4f88-ba57-940d5a672769)
+
+![Screenshot (22)](https://github.com/user-attachments/assets/38e115d2-297d-457a-93a9-1eca0c18f5d0)
+
+![Screenshot (23)](https://github.com/user-attachments/assets/f2ac2e70-602c-4f38-b292-6d2fde7feb36)
+
+
 Features
 •Fetch real-time weather data using OpenWeatherMap API
 •Input validation to ensure a valid city name
