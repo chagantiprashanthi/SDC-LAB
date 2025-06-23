@@ -4,6 +4,12 @@ Objective
 
 This project is a Java Standalone Application that connects to a MySQL database and performs CRUD (Create, Read, Update, Delete) operations on a product table. It's designed to demonstrate Java-Database connectivity using JDBC.
 
+![Screenshot (24)](https://github.com/user-attachments/assets/078bbf24-ff58-42a0-a4e1-0d5c3cb39348)
+![Screenshot (25)](https://github.com/user-attachments/assets/4907891d-5533-4ea2-ac1a-a570e3261d1c)
+![Screenshot (26)](https://github.com/user-attachments/assets/2da3ec3f-fd89-4512-8003-d6256db48268)
+
+
+
 Prerequisites 
 
 Before running this application, make sure you have the following installed:
