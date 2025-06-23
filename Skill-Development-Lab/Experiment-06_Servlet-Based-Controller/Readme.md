@@ -2,11 +2,12 @@ PROGRAM 6 – Servlet-Based Controller for Shopping Cart
 
 AIM
 To design a Java Servlet controller that connects the front-end shopping cart application with a MySQL database, using the MVC architecture pattern.
-![Screenshot (29)](https://git![Screenshot (30)](https://github.com/user-attachments/assets/8a74868a-db3a-4d87-ad76-2a7db3946c49)
-hub.com/user-attachments/asset![Screenshot (31)](https://github.com/user-attachments/assets/15ad864d-de9e-494c-81de-5f4534b6ccb5)
-s/5c9c1f3d-baab-4773-88bf-a9897cb1b8a5)
 
-DESCRIPTION
+![Screenshot (31)](https://github.com/user-attachments/assets/7964310a-539a-4beb-8216-a808bf056f94)
+
+![Screenshot (30)](https://github.com/user-attachments/assets/ad2236e9-35f2-4b99-b826-f8a84cebcff0)
+
+DESCRIPTIOn
 This experiment integrates a web-based shopping cart interface with a backend MySQL database using a Java Servlet. The servlet (controller) handles HTTP requests, connects to the database, retrieves product data, and sends it back to the client as a dynamic HTML response. The application showcases a basic MVC structure using HTML (view), Servlet (controller), and MySQL (model).
 The project is developed and run using VS Code, compiled with the Servlet API, and deployed on Apache Tomcat.
 
