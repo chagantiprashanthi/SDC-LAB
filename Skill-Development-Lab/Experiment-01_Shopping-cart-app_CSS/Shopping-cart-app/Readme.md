@@ -30,17 +30,14 @@ ShoppingCartApp/
 │── package.json # Project dependencies and scripts
 │── README.md # Project documentation
 
-Installation & Setup![Screenshot (4)](https://github.com/user-attachments/assets/f22a1520-0570-43e7-b77a-8f6139c7b921)
+Installation & Setup![Screenshot (4)](https://github.com/user-attachments/assets/f22a1520-0570-43e7-b77a-8f6139c7b921)![Screenshot (10)](https://github.com/user-attachments/assets/f5d5d55c-437a-445b-bb8f-fb714bd32531)
+![Screenshot (11)](https://github.com/user-attachments/assets/ac25021d-09e1-46b1-8ffb-3fdd5355f65c)
+
 
 ![Screenshot of registration page](https://github.com/user-attachments/assets/18b5a591-8223-48aa-ba94-acb4774606e0)
-![Screenshot of login page](https://github.com/user-attachments/assets/dc166c20-a4fb-431d-9ee1-f5a854b3694b)
 
 Prerequisites
 •Install Node.js and npm
-![Screenshot (8)](https://github.com/user-attachments/assets/b0d2ca80-![Screenshot (9)](https://github.com/user-attachments/assets/94d6f6bd-04fc-4923-ab48-39a56f407e91)
-007a-4302-8283-5e36903b1aa8)
-
-
 Steps to Run the Project
 1.Clone the repository:
 2.git clone https://github.com/your-repo/shopping-cart.git
