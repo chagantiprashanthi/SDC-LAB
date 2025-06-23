@@ -30,7 +30,9 @@ ShoppingCartApp/
 │── package.json # Project dependencies and scripts
 │── README.md # Project documentation
 
-Installation & Setup
+Installation & Setup![Screenshot (4)](https://github.com/user-attachments/assets/f22a1520-0570-43e7-b77a-8f6139c7b921)
+
+![Screenshot (5)](https://github.com/user-attachments/assets/18b5a591-8223-48aa-ba94-acb4774606e0)
 
 Prerequisites
 •Install Node.js and npm
@@ -48,4 +50,4 @@ Steps to Run the Project
 
 License
 This project is licensed under the MIT License.
-Developed by [M Swayam Prakash]
+Developed by chaganti prashanthi
